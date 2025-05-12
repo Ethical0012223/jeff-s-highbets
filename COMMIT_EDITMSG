@@ -1,0 +1,7 @@
+Show terms and conditions in a popup window to ensure users are informed
+
+Implements a TermsAndConditions component with a Dialog from @/components/ui/dialog, replacing the old link in Footer.tsx.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: c198641c-5134-4fe5-959e-08e3121f3884
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/559ed189-8344-423d-bd59-14033d4a9e14/6b820b97-60bb-4bd0-b13a-54cc00bf2eb0.jpg
